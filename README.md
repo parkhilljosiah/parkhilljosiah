@@ -7,7 +7,7 @@
 
 - 📄 Download my resume here: [https://www.josiahparkhill.dev/](https://www.josiahparkhill.dev/)
 
-- ⚡ Fun fact: **I am an avid guitar 🎸 player with over ten years of playing experience.**
+- ⚡ Fun fact: **I am an avid guitarist 🎸 with over ten years of playing experience.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
