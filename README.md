@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Josiah Parkhill</h1>
+<h1 align="center">Hi 🤙🏻, I'm Josiah Parkhill</h1>
 <h3 align="center">An experienced Frontend Web Developer with two years of proven success in fostering team collaboration to create visually appealing and user-centric web interfaces. Skilled in HTML, CSS, JavaScript, TypeScript, React, React Native, and Ionic, bringing a diverse language proficiency to contribute effectively.</h3>
 
 - 💬 Ask me about: **react**
