@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🤙🏻, I'm Josiah Parkhill</h1>
-<h3 align="center">An experienced Frontend Web Developer with two years of proven success in fostering team collaboration to create visually appealing and user-centric web interfaces. Skilled in HTML, CSS, JavaScript, TypeScript, React, React Native, and Ionic, bringing a diverse language proficiency to contribute effectively.</h3>
+<h3 align="center">Over the past two years, I've dedicated countless hours to honing my Full-Stack Engineering skills, staying up-to-date with industry trends, and expanding my expertise. I take great pride in my proficiency in JavaScript, TypeScript, React.js, Next.js, and Node.js, as well as my adeptness in navigating technical documentation. My journey has been marked by continuous learning and growth, driven by a passion for creating seamless and efficient digital experiences.</h3>
 
-- 💬 Ask me about: **react**
+- 💬 Ask me about: **astro**
 
 - 📫 How to reach me: **parkhilljosiah@gmail.com**
 
