@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🤙🏻, I'm Josiah Parkhill</h1>
 <h3 align="center">Over the past two years, I've dedicated countless hours to honing my Full-Stack Engineering skills, staying up-to-date with industry trends, and expanding my expertise. I take great pride in my proficiency in JavaScript, TypeScript, React.js, Next.js, and Node.js, as well as my adeptness in navigating technical documentation. My journey has been marked by continuous learning and growth, driven by a passion for creating seamless and efficient digital experiences.</h3>
 
-- 💬 Ask me about: **astro**
+- 💬 Ask me about: <a href="https://astro.build/" target="blank">**astro**</a>
 
 - 📫 How to reach me: **parkhilljosiah@gmail.com**
 
